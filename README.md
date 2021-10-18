@@ -1,5 +1,9 @@
 # CS389
 
+https://developer.android.com/training/basics/firstapp
+
+* MyFirstApp
+
 https://developer.android.com/courses/fundamentals-training/toc-v2
 
 * HelloWorld: 1.1
